@@ -1,0 +1,2 @@
+Date                             Credit               Debit            Balance
+[2024-07-07/31/24][05-07-14]     1000                                  1000

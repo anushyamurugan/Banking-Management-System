@@ -1,0 +1,2 @@
+Date                             Credit               Debit            Balance
+[2025-07-07/02/25][15-31-17]     1000                                  1000
